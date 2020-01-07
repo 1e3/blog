@@ -3,7 +3,8 @@ module.exports = {
     title: `1e3 Blog`,
     author: `Rafael Franco`,
     description: `A blog about technology`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://1e3.github.io/blog/`,
+    pathPrefix: `/blog`,
     social: {
       twitter: `rfoel`,
     },
